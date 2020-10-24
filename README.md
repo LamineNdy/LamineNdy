@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi I am Lamine 👋🏾
 
-<!--
-**LamineNdy/LamineNdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer living in Paris, France. I'm a software engineer at [Streamroot](https://streamroot.io/). 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on the Streamroot SDK
+- 🌱 I’m currently learning Rust
+- 💬 Ask me about iOS development, Swift
+- 📫 How to reach me: [Twitter](https://twitter.com/laminendy).
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Here are some articles I wrote on medium:
+
+ The iOS Framework made with love @Streamroot.[Medium](https://medium.com/streamroot-developers-blog/the-ios-framework-made-with-love-streamroot-778dd28000cc)
