@@ -11,4 +11,4 @@ I’m a software engineer living in Paris, France. I'm a software engineer at [S
 
 ### Here are some articles I wrote on medium:
 
- The iOS Framework made with love @Streamroot.[Medium](https://medium.com/streamroot-developers-blog/the-ios-framework-made-with-love-streamroot-778dd28000cc)
+[ The iOS Framework made with love @Streamroot](https://medium.com/streamroot-developers-blog/the-ios-framework-made-with-love-streamroot-778dd28000cc)
