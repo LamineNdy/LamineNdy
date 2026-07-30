@@ -1,9 +1,9 @@
 ### Hi I am Lamine 👋🏾
 
-I’m a software engineer living in Paris, France. I'm a software engineer at [Streamroot](https://streamroot.io/). 
+I’m a software engineer living in Paris, France. I'm a software engineer. 
 
-- 🌱 I’m currently learning Rust
-- 💬 Ask me about iOS development, Swift
+- 🌱 I’m currently learning about AI
+- 💬 Ask me about iOS development and Swift
 - 📫 How to reach me: [Twitter](https://twitter.com/laminendy).
 - 😄 Pronouns: He/Him
 
