@@ -4,7 +4,7 @@ I’m a software engineer living in Paris, France. I'm a software engineer.
 
 - 🌱 I’m currently learning about AI
 - 💬 Ask me about iOS development and Swift
-- 📫 How to reach me: [Twitter](https://twitter.com/laminendy).
+- 📫 How to reach me: [X](https://x.com/i_am_laminendy).
 - 😄 Pronouns: He/Him
 
 
